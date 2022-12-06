@@ -1,4 +1,4 @@
-module Day04 (printDay04, haveOverlap)  where
+module Day04 (printDay04)  where
 
 import Text.Read (readMaybe)
 import Data.Function ((&))
